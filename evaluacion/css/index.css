@@ -1,0 +1,21 @@
+.inicio{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 5rem;
+    border-bottom: 0.01rem solid hwb(0 0% 100%);
+}
+
+.icon{
+    width: 7rem;
+    float: left;
+    margin-left: 20rem;
+    margin-top: 0.9rem;
+
+}
+
+.t1{
+    color: blue;
+    width: auto;   
+    height: 8rem;
+}
